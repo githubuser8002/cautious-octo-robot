@@ -1,0 +1,57 @@
+body {
+    background-color: rgb(109, 114, 114);
+    font-size: 36px;
+    text-align: center;
+    margin: 0;
+}
+
+.h1{
+    color:brown;
+
+}
+
+p{
+    color:rgb(220, 220, 220);
+
+}
+.hheader{
+    font-size: 10x;
+    color:rgb(255, 253, 208);
+}
+.img{
+    width: 300px;
+    height: 250px;
+}
+.a{
+    text-decoration: 0;
+    color: orange;
+    background-color: grey;
+    border: 3px solid ;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 10px;
+}
+
+.a img{
+    width: 50px;
+    height: 50px;
+}
+.header{
+    height: 30%;
+    background-color: cadetblue;
+}
+.main{
+    background-color: rgb(109, 114, 114);
+}
+.footer{
+    position: absolute;
+    margin:0 auto;
+}
+
+.p{
+    color: rgb(169,169,169);
+}
+
+.p3{
+    color:rgb(255, 253, 208);
+}
